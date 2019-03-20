@@ -1,12 +1,10 @@
 // CHAT 
 
-const buttonChat = document.getElementById("buttonChat");
-const root = document.getElementById("root");
-const rootNav = document.getElementById("rootNav");
 const buttonChatBack = document.getElementById("buttonChatBack");
+const nav = document.getElementById("mainMenu")
 
 buttonChat.addEventListener("click", function () {
-  rootNav.innerHTML = `
+  mainMenu.innerHTML = `
   <header>
     <div class="container">
       <div class="row">
