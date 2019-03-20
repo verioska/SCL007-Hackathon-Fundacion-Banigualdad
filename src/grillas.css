@@ -81,3 +81,47 @@
     /* (12 / 12) x 100 */
     width: 100%;
   }
+
+  @media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class*="col-"] {
+        width: 100%;
+   }
+  
+   #menumain{
+    padding: 0px;
+    margin-left: 3%;
+  }
+  header{
+  height: 110px;
+  } 
+  
+  .menu{
+    text-align: center;
+    font-size: 25px;
+    padding: 19% 9%;
+    margin-top: -53%
+  }
+
+  #personal,#grupo,#eventos{
+    font-size: 17px;
+    margin-top: 22px;
+  }
+  #contactos{
+    font-family: Trebuchet MS;
+    font-size: 20px;
+    line-height: 28px;
+    color: #FFFFFF;
+    margin-top: 23px;
+ }
+ #lupa{
+  margin-left: 184px;
+ }
+ #menu{
+  margin-left: 29px;
+ }
+
+  
+
+  
+  }
