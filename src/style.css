@@ -2,6 +2,10 @@ header{
     background-color: #1A83C4;
 }
 
+.menu{
+    color: white;
+=======
+
 .name{
     text-align: center;
     color: white;
@@ -52,4 +56,5 @@ input{
 
 body{
     background-color: whitesmoke
+
 }
