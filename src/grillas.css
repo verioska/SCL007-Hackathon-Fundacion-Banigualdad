@@ -102,10 +102,10 @@
     margin-top: -53%
   }
 
-  #personal,#grupo,#eventos{
+  #personal,#agregar{
     font-size: 17px;
     margin-top: 22px;
-    margin-left: -6px;
+    margin-left: 36px;
   }
   #contactos{
     font-family: Trebuchet MS;
